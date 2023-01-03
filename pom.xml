@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops86/finalName>
+	  <finalName>devops86</finalName>
   </build>
 </project>
